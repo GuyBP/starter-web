@@ -8,8 +8,10 @@ Different parts of Git repository and various commands.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
 
 ## Deployment
+
+Any web server or local file system.
 
 ## How To Contribute
