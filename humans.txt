@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Guy Ben Pazi 2022
 
 # THANKS
 
