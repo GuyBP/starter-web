@@ -15,3 +15,7 @@ Sample website with plenty of files for demos.
 Any web server or local file system.
 
 ## How To Contribute
+
+### Copyright
+
+2022
