@@ -16,6 +16,8 @@ Any web server or local file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue PR for review.
+
 ### Copyright
 
 2022
