@@ -21,4 +21,4 @@ Please fork this repository and then issue PR for review.
 
 ### Copyright
 
-2022
+2022 All rights reserved
