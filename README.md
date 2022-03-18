@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work.
-Adding a line, more changes from myfeature.
+Adding a line, more changes from myfeature. Updating e fix after stash
 
 ## Introduction
 
